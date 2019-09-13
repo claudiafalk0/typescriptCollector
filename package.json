@@ -1,0 +1,19 @@
+{
+  "name": "typescriptcollector",
+  "version": "1.0.0",
+  "description": "Fruit Collector with typescript",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiafalk0/typescriptCollector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiafalk0/typescriptCollector/issues"
+  },
+  "homepage": "https://github.com/claudiafalk0/typescriptCollector#readme"
+}
